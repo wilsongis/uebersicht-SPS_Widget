@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>groupInfo</key>
+	<dict>
+		<key>expandAfterMode</key>
+		<integer>0</integer>
+		<key>groupName</key>
+		<string>TE-SPS</string>
+	</dict>
+	<key>snippetsTE2</key>
+	<array>
+		<dict>
+			<key>abbreviation</key>
+			<string>xxsps</string>
+			<key>abbreviationMode</key>
+			<integer>1</integer>
+			<key>creationDate</key>
+			<date>2014-02-07T02:03:41Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string>Storyline Productivity</string>
+			<key>lastUsed</key>
+			<date>2014-09-05T12:54:37Z</date>
+			<key>modificationDate</key>
+			<date>2014-09-06T18:41:41Z</date>
+			<key>plainText</key>
+			<string>__%Y-%m-%d __
+
+### If I could Live Today Over again I'd:
+
+%|
+
+### Things I get to enjoy today:
+
+
+
+### Project 1
+
+
+
+### Project 2
+
+
+
+### Project 3
+
+
+
+_Life Theme_
+
+&lt;ADD LIFE THEME&gt;
+
+</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>78</integer>
+			<key>uuidString</key>
+			<string>460EC1C9-B221-4422-A663-04ADBE4DBF6D</string>
+		</dict>
+	</array>
+</dict>
+</plist>
