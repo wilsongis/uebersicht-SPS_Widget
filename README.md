@@ -8,6 +8,8 @@ A widget for [Übersicht](http://tracesof.net/uebersicht/) that displays an abbr
 
 Each morning I decide on what I would do over again if I had to relive that day. Whenever I discuss SPS with someone their first comment is **"I would not go to work"**. I skip this obvious item. By listing what I would do over again, it helps me focus on the important not urgent tasks in my life. With my do over items in mind, I review Omnifocus and select 3 tasks that I would like to accomplish each day. "Project 1" is the task that has my top priority and I focus on is first thing. 2 and 3 typically depend on the various fires that arise. By keeping the SPS on my screen, I feel the I can better focus on the Important.
 
+I included a [TextExpander](http://smilesoftware.com/TextExpander/index.html "TextExpander: Mac Typing Shortcut Utility Saves You Time TextExpander: Mac Typing Shortcut Utility Saves You Time") Snippit I use to create the Daily SPS. Additionlly, I included a sample "DailySPS.txt" for those without [TextExpander](http://smilesoftware.com/TextExpander/index.html "TextExpander: Mac Typing Shortcut Utility Saves You Time TextExpander: Mac Typing Shortcut Utility Saves You Time").
+
 ### Adjusting Screen Placement
 
 background-color: rgba(255,255,255,0.6)
@@ -29,3 +31,5 @@ background-color: rgba(255,255,255,0.6)
 This Widget is my own abbreviated version for the [Storyline Productivity Schedule](http://www.storylineblog.com/storyline-productivity-schedule.pdf "Storyline Productivity Schedule PDF"). 
 
 I also need to give credit to [Brett Terpstra](http://brettterpstra.com "BrettTerpstra.com") and his great podcast, [Systematic](http://5by5.tv/systematic "5by5 | Systematic"), where I first heard of [Übersicht](http://tracesof.net/uebersicht/)
+
+My overall workflow for my Daily SPS includes saving to DayOne through the use of Hazel.
