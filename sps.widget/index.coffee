@@ -1,11 +1,10 @@
 refreshFrequency: 60000
 
-# ToDoList Entries:
-# Use a '-' for an open item
-# Use a '+' for a completed item
-todolistfile = '~/Documents/SPS/DailySPS.txt'
+# Daily SPS for Übersicht
+# Based on the TODO Widget by Rich Somerfield (https://github.com/felixhageloh/uebersicht-widgets/tree/master/to-do-list)
+spsfile = '~/Documents/SPS/DailySPS.txt'
 
-command: "cat #{todolistfile} | awk 'BEGIN {print \"\"} /^[###]/ {print \"<br />\"substr($0,4)\"<br />\"} /^[*]/ {print \"<blockquote><li>\"substr($0,2)\"</li></blockquote>\"} END {print \"\"}'"
+command: "cat #{spsfile} | awk 'BEGIN {print \"\"} /^[###]/ {print \"<br />\"substr($0,4)\"<br />\"} /^[*]/ {print \"<blockquote><li>\"substr($0,2)\"</li></blockquote>\"} END {print \"\"}'"
 
 style: """
   background-color: rgba(255,255,255,0.6)
