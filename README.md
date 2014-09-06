@@ -11,11 +11,16 @@ Each morning I decide on what I would do over again if I had to relive that day.
 ### Adjusting Screen Placement
 
 background-color: rgba(255,255,255,0.6)
+
   border-radius: 6px
+
   padding: 0px 20px
   top: 200px
+
   left: 40%
+
   color: #333
+  
   font-family: Helvetica Neue
 
 
